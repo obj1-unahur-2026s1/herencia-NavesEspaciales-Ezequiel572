@@ -231,3 +231,4 @@ class NaveCombateSigilosa inherits NaveCombate {
     self.ponerseInvisible()
   }
 }
+
